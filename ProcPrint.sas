@@ -1,2 +1,2 @@
-proc print data=sashelp.class;
+proc print data=sashelp.cars;
 run;
